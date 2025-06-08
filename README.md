@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-$1+1=3$
+$1+1=2$
 <!--
 **m1kmgtp/m1kmgtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
